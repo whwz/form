@@ -1,6 +1,5 @@
 .page {
   text-align: center;
-  overflow-y: scroll;
 }
 
 .App {
@@ -8,7 +7,7 @@
   display: inline-block;
   width: fit-content;
   min-width: 50rem;
-  margin: 5rem 0;
+  margin: 3rem 0;
   padding: 3rem;
   box-shadow: 0 0 3px 1px rgb(213,219,229);
   border-radius: 5px;
